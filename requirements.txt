@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+plotly
+kaleidoscope
+qiskit
+qiskit-algorithms
+qiskit-aer
+qiskit-optimization
