@@ -10,7 +10,7 @@ Link da transmissão: Em breve...
 
 * Clone este repositório usando o comando abaixo 
 ```bash
-git clone 
+git clone https://github.com/jvscursulim/itau_data_meetup27_algoritmos_quanticos_hibridos
 ```
 
 * Crie um ambiente virtual para o repositório
