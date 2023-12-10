@@ -4,7 +4,7 @@
 
 Este repositório contém o notebook da apresentação realizada no dia 29/11/2023 no Itaú Data Meetup, sobre algoritmos quânticos híbridos.
 
-Link da transmissão: Em breve...
+Link da transmissão: https://www.youtube.com/watch?v=lCFWGzFeNUM&t=19s
 
 ## Instalação
 
